@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Kaluna Finance</string>
+
+    <!-- Main Activity -->
+    <string name="title_transactions">Transaksi</string>
+    <string name="balance">Saldo</string>
+    <string name="income">Pemasukan</string>
+    <string name="expense">Pengeluaran</string>
+    <string name="total_balance">Total Saldo</string>
+    <string name="no_transactions">Belum ada transaksi</string>
+
+    <!-- Add Transaction -->
+    <string name="title_add_transaction">Tambah Transaksi</string>
+    <string name="hint_amount">Jumlah</string>
+    <string name="hint_description">Keterangan</string>
+    <string name="hint_date">Tanggal</string>
+    <string name="label_type">Jenis Transaksi</string>
+    <string name="type_income">Pemasukan</string>
+    <string name="type_expense">Pengeluaran</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_cancel">Batal</string>
+
+    <!-- Menu Items -->
+    <string name="menu_export">Export Excel</string>
+    <string name="menu_settings">Pengaturan</string>
+
+    <!-- Messages -->
+    <string name="msg_transaction_added">Transaksi berhasil ditambahkan</string>
+    <string name="msg_transaction_deleted">Transaksi berhasil dihapus</string>
+    <string name="msg_export_success">Data berhasil di-export</string>
+    <string name="msg_error_amount">Masukkan jumlah</string>
+    <string name="msg_error_description">Masukkan keterangan</string>
+
+    <!-- Currency Format -->
+    <string name="currency_format">Rp %s</string>
+
+    <!-- Dialog Messages -->
+    <string name="dialog_delete_title">Hapus Transaksi</string>
+    <string name="dialog_delete_message">Anda yakin ingin menghapus transaksi ini?</string>
+    <string name="dialog_yes">Ya</string>
+    <string name="dialog_no">Tidak</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_amount">Jumlah tidak valid</string>
+    <string name="error_export_failed">Export gagal</string>
+    <string name="error_general">Terjadi kesalahan</string>
+</resources>
